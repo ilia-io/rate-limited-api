@@ -1,1 +1,5 @@
 /node_modules/
+/.wrangler/
+.env
+notes.md
+wrangler.toml
